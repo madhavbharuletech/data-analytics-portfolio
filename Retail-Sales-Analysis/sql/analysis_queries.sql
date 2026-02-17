@@ -119,4 +119,37 @@ ORDER BY Total_Sales DESC;
 /* =====================================================
    END OF SQL EDA SCRIPT
    ===================================================== */
+/* =====================================================
+   REPORTING VIEW — ANALYTICS LAYER
+   Purpose: Create reusable dataset for BI tools
+   ===================================================== */
+
+CREATE VIEW dbo.vw_sales_analytics AS
+SELECT
+    Row_ID,
+    Order_ID,
+    Order_Date,
+    YEAR(Order_Date) AS Order_Year,
+    MONTH(Order_Date) AS Order_Month,
+    DATENAME(MONTH, Order_Date) AS Order_Month_Name,
+    Ship_Date,
+    DATEDIFF(DAY, Order_Date, Ship_Date) AS Delivery_Days,
+    Customer_ID,
+    Customer_Name,
+    Segment,
+    Region,
+    State,
+    Category,
+    Sub_Category,
+    Sales
+FROM dbo.train;
+GO
+
+
+/* =====================================================
+   PREVIEW VIEW OUTPUT
+   ===================================================== */
+
+SELECT TOP 10 *
+FROM dbo.vw_sales_analytics;
 
