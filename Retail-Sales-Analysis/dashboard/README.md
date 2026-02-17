@@ -92,9 +92,6 @@ The dashboard is powered by a SQL analytics view built on the **Sample Superstor
 ## 🚀 How to Use
 
 1. Open the dashboard link above  
-2. Hover over charts to view detailed tooltips  
-3. Explore trends across time, geography, and product  
-4. Use insights to identify growth opportunities  
 
 ---
 
