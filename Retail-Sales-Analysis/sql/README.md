@@ -87,8 +87,8 @@ Creating this view ensured:
 
 ## 📁 Files Included
 
-🔗 [analysis_queries.sql](sql/analysis_queries.sql)
-)
+🔗 [View SQL Queries](sql/analysis_queries.sql)
+
 
 Contains all SQL queries used throughout the project, organised into:
 
