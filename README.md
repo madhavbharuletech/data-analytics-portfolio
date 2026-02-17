@@ -36,7 +36,8 @@ Collection of exercises and mini-projects covering:
 - SQL practice
 - Visualization
 
-🔗 [View Repository](README.md)
+🔗 View Bootcamp Repository
+https://github.com/madhavbharuletech/data-analytics-bootcamp-work
 
 ---
 
