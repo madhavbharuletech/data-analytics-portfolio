@@ -85,17 +85,17 @@ Creating this view ensured:
 
 ---
 
-# 📂 Files Included
+## 📁 Files Included
 
-## 📄 `analysis_queries.sql`
+🔗 [analysis_queries.sql](sql/analysis_queries.sql)
 
 Contains all SQL queries used throughout the project, organised into:
 
-* Dataset preview and schema checks
-* Data validation queries
-* Aggregated business metrics
-* Trend analysis
-* Reporting view creation
+- Dataset preview and schema checks  
+- Data validation queries  
+- Aggregated business metrics  
+- Trend analysis  
+- Reporting view creation  
 
 ---
 
