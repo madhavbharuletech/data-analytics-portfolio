@@ -102,16 +102,6 @@ Translated insights into actionable business narrative.
 
 ---
 
-## 📊 Dataset Summary
-
-- ~9,800 transaction records  
-- ~4,900+ distinct orders  
-- USA geographic coverage  
-- Transaction line-item granularity  
-- Suitable for time-series analysis  
-
----
-
 ## 💡 Business Impact
 
 This analysis enables stakeholders to:
