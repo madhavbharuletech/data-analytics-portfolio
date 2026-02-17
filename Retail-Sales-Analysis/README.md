@@ -38,7 +38,7 @@ It demonstrates a complete analytics lifecycle — from exploratory analysis and
 This project follows a structured analytics workflow similar to real-world business analysis:
 
 1️⃣ **Exploratory Data Analysis (EDA)**  
-Initial review of dataset structure, distributions, and key fields.
+Initial review of dataset structure, distributions, and key fields. Mostly done using Excel.
 
 2️⃣ **Define Project Objectives**  
 Clarified business questions and success metrics.
@@ -77,11 +77,13 @@ Translated insights into actionable business narrative.
 ### ⏱️ Time Trends
 - Strong growth from 2017–2018  
 - Increasing order volume each year  
-- Peak demand in Q4  
+- Peak demand in Q4
+- Slight dip in sales in 2016. Need More data and inputs from Statehokders for analysing the drop in Sales
 
 ### 🌎 Regional Insights
 - West region is the highest revenue contributor  
-- South region shows consistent underperformance  
+- South region shows consistent underperformance
+- Large Revenue contribution for three states(CA, NY, TX) poses Geometric Concentration Risk
 
 ### 📦 Product Insights
 - Technology is the primary revenue driver  
