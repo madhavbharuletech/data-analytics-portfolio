@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/madhav.bharule7670/viz/Sales_Analysis_Pro
 
 ## 🧭 Quick Navigation
 
-- 📊 [Dashboard Documentation](dashboard/README.md)
+- 📊 [Tableau - Dashboard Documentation](dashboard/README.md)
 - 🧮 [SQL Analysis](sql/README.md)
 - 📁 [Dataset Information](data/README.md)
 - 📊 [Excel EDA](excel/README.md)
