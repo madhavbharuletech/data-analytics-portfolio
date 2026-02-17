@@ -29,26 +29,7 @@ It demonstrates a complete analytics lifecycle — from exploratory analysis and
 - Analyse sales trends over time  
 - Identify regional and product performance drivers  
 - Evaluate customer behaviour patterns  
-- Build a reusable reporting layer for dashboards  
-
----
-
-## 🧰 Tools & Technologies
-
-- **SQL Server** → Data exploration and modelling  
-- **Excel** → Initial data profiling  
-- **Tableau** → Visualisation and storytelling  
-- **GitHub** → Documentation and version control  
-
----
-
-## 📊 Dataset Summary
-
-- ~9,800 transaction records  
-- ~4,900+ distinct orders  
-- USA geographic coverage  
-- Transaction line-item granularity  
-- Suitable for time-series analysis  
+- Build a reusable reporting layer for dashboards
 
 ---
 
@@ -108,7 +89,26 @@ Translated insights into actionable business narrative.
 
 ### 👥 Customer Insights
 - Balanced revenue distribution  
-- No single dominant customer  
+- No single dominant customer
+
+---
+
+## 🧰 Tools & Technologies
+
+- **SQL Server** → Data exploration and modelling  
+- **Excel** → Initial data profiling  
+- **Tableau** → Visualisation and storytelling  
+- **GitHub** → Documentation and version control  
+
+---
+
+## 📊 Dataset Summary
+
+- ~9,800 transaction records  
+- ~4,900+ distinct orders  
+- USA geographic coverage  
+- Transaction line-item granularity  
+- Suitable for time-series analysis  
 
 ---
 
