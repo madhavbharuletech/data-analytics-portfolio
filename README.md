@@ -9,7 +9,8 @@ Welcome! Below are selected analytics projects demonstrating my skills in SQL, P
 ### 1️⃣ Sales Performance Dashboard
 **Tools:** SQL, Python, Tableau  
 Analyzed multi-year sales data to identify trends and growth opportunities.  
-🔗 [View Project](LINK)
+🔗 [View Project](Retail-Sales-Analysis/)
+
 
 ---
 
