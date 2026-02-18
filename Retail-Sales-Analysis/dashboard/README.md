@@ -49,7 +49,7 @@ Highlights seasonality and peak demand periods.
 ### 3️⃣ Sales by Segment
 Compares revenue contribution across customer segments.
 
-### 4️⃣ Sales by State (Map)
+### 4️⃣ Sales by State 
 Provides geographic insights into regional performance.
 
 ### 5️⃣ Sales by Product
