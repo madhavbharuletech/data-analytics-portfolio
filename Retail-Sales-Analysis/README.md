@@ -3,7 +3,7 @@
 ## 🔗 Live Dashboard
 
 👉 **View Interactive Tableau Dashboard**  
-https://public.tableau.com/app/profile/madhav.bharule7670/viz/Sales_Analysis_Project_17713377367510/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/madhav.bharule7670/viz/Sales_Analysis_Project_17713377367510/Dashboard2?publish=yes
 
 ---
 
