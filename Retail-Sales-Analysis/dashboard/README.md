@@ -89,12 +89,6 @@ The dashboard is powered by a SQL analytics view built on the **Sample Superstor
 
 ---
 
-## 🚀 How to Use
-
-1. Open the dashboard link above  
-
----
-
 ## 🧠 Skills Demonstrated
 
 ✔ Data visualisation best practices  
