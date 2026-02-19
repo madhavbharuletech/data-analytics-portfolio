@@ -14,17 +14,7 @@ Analyzed multi-year sales data to identify trends and growth opportunities.
 
 ---
 
-### 2️⃣ Customer Segmentation Analysis
-**Tools:** Python, Pandas, Visualization  
-Used clustering techniques to identify customer groups.  
-🔗 [View Project](LINK)
-
----
-
-### 3️⃣ SQL Business Case Study
-**Tools:** SQL  
-Solved business questions using advanced queries and aggregations.  
-🔗 [View Project](LINK)
+### 2️⃣ Finance Data Analysis (Work in Progress)
 
 ---
 
